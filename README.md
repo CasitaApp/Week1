@@ -7,3 +7,5 @@
 * [Git Basic Cheat Sheet](https://rubygarage.s3.amazonaws.com/uploads/article_image/file/599/git-cheatsheet-5.jpg)
 
 * [Basic Commands](https://www.git-tower.com/blog/command-line-cheat-sheet/)
+
+(https://wallpaperaccess.com/full/7974794.jpg)
