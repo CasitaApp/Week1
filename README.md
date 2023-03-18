@@ -12,3 +12,4 @@ Code   Edit from word Processor
 Ls     List
 ETC
 [Basic Commands](https://www.git-tower.com/blog/command-line-cheat-sheet/)
+List of Command comming soon!
